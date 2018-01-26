@@ -1,0 +1,175 @@
+\begin{theindex}
+
+  \item {abilities}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{12}
+  \item {attack}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{12}
+    \subitem {Poke\+Web\+::\+Models\+::\+Statistic}, \hyperpage{19}
+
+  \indexspace
+
+  \item {base\+\_\+experience}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{12}
+
+  \indexspace
+
+  \item {defense}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{12}
+    \subitem {Poke\+Web\+::\+Models\+::\+Statistic}, \hyperpage{19}
+  \item {Delete\+Pokemon}
+    \subitem {Poke\+Web\+::\+Controllers\+::pokemon\+Controller}, 
+		\hyperpage{14}
+  \item {Down}
+    \subitem {Poke\+Web\+::\+Migrations\+::\+Create\+Database}, 
+		\hyperpage{10}
+
+  \indexspace
+
+  \item {Get\+All\+Pokemons}
+    \subitem {Poke\+Web\+::\+Controllers\+::pokemon\+Controller}, 
+		\hyperpage{15}
+  \item {Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc}
+    \subitem {Poke\+Web\+::\+Controllers\+::pokemon\+Controller}, 
+		\hyperpage{15}
+  \item {Get\+Pokemon}
+    \subitem {Poke\+Web\+::\+Controllers\+::pokemon\+Controller}, 
+		\hyperpage{15}
+
+  \indexspace
+
+  \item {height}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{12}
+  \item {hp}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{12}
+    \subitem {Poke\+Web\+::\+Models\+::\+Statistic}, \hyperpage{19}
+
+  \indexspace
+
+  \item {id}
+    \subitem {Poke\+Web\+::\+Models\+::\+Ability}, \hyperpage{9}
+    \subitem {Poke\+Web\+::\+Models\+::\+Move}, \hyperpage{11}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{12}
+  \item {image}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{13}
+
+  \indexspace
+
+  \item {moves}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{13}
+
+  \indexspace
+
+  \item {name}
+    \subitem {Poke\+Web\+::\+Models\+::\+Ability}, \hyperpage{9}
+    \subitem {Poke\+Web\+::\+Models\+::\+Move}, \hyperpage{11}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{13}
+
+  \indexspace
+
+  \item {Patch\+Pokemon}
+    \subitem {Poke\+Web\+::\+Controllers\+::pokemon\+Controller}, 
+		\hyperpage{16}
+  \item {Poke\+Web}, \hyperpage{7}
+  \item {Poke\+Web.\+Controllers}, \hyperpage{7}
+  \item {Poke\+Web.\+Controllers.\+pokemon\+Controller}, \hyperpage{14}
+  \item {Poke\+Web.\+D\+A\+L.\+Poke\+Web\+Context}, \hyperpage{17}
+  \item {Poke\+Web.\+D\+AL}, \hyperpage{7}
+  \item {Poke\+Web.\+Migrations}, \hyperpage{7}
+  \item {Poke\+Web.\+Migrations.\+Create\+Database}, \hyperpage{10}
+  \item {Poke\+Web.\+Models}, \hyperpage{7}
+  \item {Poke\+Web.\+Models.\+Ability}, \hyperpage{9}
+  \item {Poke\+Web.\+Models.\+Move}, \hyperpage{11}
+  \item {Poke\+Web.\+Models.\+Pokemon}, \hyperpage{11}
+  \item {Poke\+Web.\+Models.\+Statistic}, \hyperpage{18}
+  \item {Poke\+Web.\+Models.\+Statistic\+Container}, \hyperpage{20}
+  \item {Poke\+Web.\+Swagger\+Config}, \hyperpage{20}
+  \item {Poke\+Web.\+Web\+Api\+Application}, \hyperpage{21}
+  \item {Poke\+Web\+::\+Controllers\+::pokemon\+Controller}
+    \subitem {Delete\+Pokemon}, \hyperpage{14}
+    \subitem {Get\+All\+Pokemons}, \hyperpage{15}
+    \subitem {Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc}, 
+		\hyperpage{15}
+    \subitem {Get\+Pokemon}, \hyperpage{15}
+    \subitem {Patch\+Pokemon}, \hyperpage{16}
+    \subitem {Post\+Pokemon}, \hyperpage{16}
+    \subitem {Put\+Pokemon}, \hyperpage{17}
+  \item {Poke\+Web\+::\+D\+A\+L\+::\+Poke\+Web\+Context}
+    \subitem {Poke\+Web\+Context}, \hyperpage{18}
+    \subitem {Pokemons}, \hyperpage{18}
+  \item {Poke\+Web\+::\+Migrations\+::\+Create\+Database}
+    \subitem {Down}, \hyperpage{10}
+    \subitem {Up}, \hyperpage{10}
+  \item {Poke\+Web\+::\+Models\+::\+Ability}
+    \subitem {id}, \hyperpage{9}
+    \subitem {name}, \hyperpage{9}
+  \item {Poke\+Web\+::\+Models\+::\+Move}
+    \subitem {id}, \hyperpage{11}
+    \subitem {name}, \hyperpage{11}
+  \item {Poke\+Web\+::\+Models\+::\+Pokemon}
+    \subitem {abilities}, \hyperpage{12}
+    \subitem {attack}, \hyperpage{12}
+    \subitem {base\+\_\+experience}, \hyperpage{12}
+    \subitem {defense}, \hyperpage{12}
+    \subitem {height}, \hyperpage{12}
+    \subitem {hp}, \hyperpage{12}
+    \subitem {id}, \hyperpage{12}
+    \subitem {image}, \hyperpage{13}
+    \subitem {moves}, \hyperpage{13}
+    \subitem {name}, \hyperpage{13}
+    \subitem {special\+\_\+attack}, \hyperpage{13}
+    \subitem {special\+\_\+defense}, \hyperpage{13}
+    \subitem {speed}, \hyperpage{13}
+    \subitem {weigh}, \hyperpage{13}
+  \item {Poke\+Web\+::\+Models\+::\+Statistic}
+    \subitem {attack}, \hyperpage{19}
+    \subitem {defense}, \hyperpage{19}
+    \subitem {hp}, \hyperpage{19}
+    \subitem {special\+\_\+attack}, \hyperpage{19}
+    \subitem {special\+\_\+defense}, \hyperpage{19}
+    \subitem {speed}, \hyperpage{19}
+  \item {Poke\+Web\+::\+Models\+::\+Statistic\+Container}
+    \subitem {pokemons}, \hyperpage{20}
+    \subitem {statistic}, \hyperpage{20}
+  \item {Poke\+Web\+Context}
+    \subitem {Poke\+Web\+::\+D\+A\+L\+::\+Poke\+Web\+Context}, 
+		\hyperpage{18}
+  \item {Pokemons}
+    \subitem {Poke\+Web\+::\+D\+A\+L\+::\+Poke\+Web\+Context}, 
+		\hyperpage{18}
+  \item {pokemons}
+    \subitem {Poke\+Web\+::\+Models\+::\+Statistic\+Container}, 
+		\hyperpage{20}
+  \item {Post\+Pokemon}
+    \subitem {Poke\+Web\+::\+Controllers\+::pokemon\+Controller}, 
+		\hyperpage{16}
+  \item {Put\+Pokemon}
+    \subitem {Poke\+Web\+::\+Controllers\+::pokemon\+Controller}, 
+		\hyperpage{17}
+
+  \indexspace
+
+  \item {special\+\_\+attack}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{13}
+    \subitem {Poke\+Web\+::\+Models\+::\+Statistic}, \hyperpage{19}
+  \item {special\+\_\+defense}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{13}
+    \subitem {Poke\+Web\+::\+Models\+::\+Statistic}, \hyperpage{19}
+  \item {speed}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{13}
+    \subitem {Poke\+Web\+::\+Models\+::\+Statistic}, \hyperpage{19}
+  \item {statistic}
+    \subitem {Poke\+Web\+::\+Models\+::\+Statistic\+Container}, 
+		\hyperpage{20}
+
+  \indexspace
+
+  \item {Up}
+    \subitem {Poke\+Web\+::\+Migrations\+::\+Create\+Database}, 
+		\hyperpage{10}
+
+  \indexspace
+
+  \item {weigh}
+    \subitem {Poke\+Web\+::\+Models\+::\+Pokemon}, \hyperpage{13}
+
+\end{theindex}

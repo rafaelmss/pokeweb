@@ -1,0 +1,78 @@
+\contentsline {chapter}{\numberline {1}Namespace Index}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Namespace List}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Hierarchical Index}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Class Hierarchy}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}Class Index}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Class List}{5}{section.3.1}
+\contentsline {chapter}{\numberline {4}Namespace Documentation}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web Namespace Reference}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Controllers Namespace Reference}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}AL Namespace Reference}{7}{section.4.3}
+\contentsline {section}{\numberline {4.4}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Migrations Namespace Reference}{7}{section.4.4}
+\contentsline {section}{\numberline {4.5}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Models Namespace Reference}{7}{section.4.5}
+\contentsline {chapter}{\numberline {5}Class Documentation}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Models.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Ability Class Reference}{9}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Detailed Description}{9}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Property Documentation}{9}{subsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.2.1}id}{9}{subsubsection.5.1.2.1}
+\contentsline {subsubsection}{\numberline {5.1.2.2}name}{9}{subsubsection.5.1.2.2}
+\contentsline {section}{\numberline {5.2}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Migrations.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Create\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Database Class Reference}{10}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Detailed Description}{10}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Member Function Documentation}{10}{subsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.2.1}Down()}{10}{subsubsection.5.2.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2.2}Up()}{10}{subsubsection.5.2.2.2}
+\contentsline {section}{\numberline {5.3}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Models.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Move Class Reference}{11}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Detailed Description}{11}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Property Documentation}{11}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}id}{11}{subsubsection.5.3.2.1}
+\contentsline {subsubsection}{\numberline {5.3.2.2}name}{11}{subsubsection.5.3.2.2}
+\contentsline {section}{\numberline {5.4}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Models.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pokemon Class Reference}{11}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Detailed Description}{12}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Property Documentation}{12}{subsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.2.1}abilities}{12}{subsubsection.5.4.2.1}
+\contentsline {subsubsection}{\numberline {5.4.2.2}attack}{12}{subsubsection.5.4.2.2}
+\contentsline {subsubsection}{\numberline {5.4.2.3}base\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}experience}{12}{subsubsection.5.4.2.3}
+\contentsline {subsubsection}{\numberline {5.4.2.4}defense}{12}{subsubsection.5.4.2.4}
+\contentsline {subsubsection}{\numberline {5.4.2.5}height}{12}{subsubsection.5.4.2.5}
+\contentsline {subsubsection}{\numberline {5.4.2.6}hp}{12}{subsubsection.5.4.2.6}
+\contentsline {subsubsection}{\numberline {5.4.2.7}id}{13}{subsubsection.5.4.2.7}
+\contentsline {subsubsection}{\numberline {5.4.2.8}image}{13}{subsubsection.5.4.2.8}
+\contentsline {subsubsection}{\numberline {5.4.2.9}moves}{13}{subsubsection.5.4.2.9}
+\contentsline {subsubsection}{\numberline {5.4.2.10}name}{13}{subsubsection.5.4.2.10}
+\contentsline {subsubsection}{\numberline {5.4.2.11}special\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}attack}{13}{subsubsection.5.4.2.11}
+\contentsline {subsubsection}{\numberline {5.4.2.12}special\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}defense}{13}{subsubsection.5.4.2.12}
+\contentsline {subsubsection}{\numberline {5.4.2.13}speed}{13}{subsubsection.5.4.2.13}
+\contentsline {subsubsection}{\numberline {5.4.2.14}weigh}{14}{subsubsection.5.4.2.14}
+\contentsline {section}{\numberline {5.5}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Controllers.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}pokemon\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Controller Class Reference}{14}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Detailed Description}{14}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Member Function Documentation}{14}{subsection.5.5.2}
+\contentsline {subsubsection}{\numberline {5.5.2.1}Delete\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pokemon()}{14}{subsubsection.5.5.2.1}
+\contentsline {subsubsection}{\numberline {5.5.2.2}Get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}All\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pokemons()}{15}{subsubsection.5.5.2.2}
+\contentsline {subsubsection}{\numberline {5.5.2.3}Get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}First6\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pokemons\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Order\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}By\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Atack\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Desc()}{15}{subsubsection.5.5.2.3}
+\contentsline {subsubsection}{\numberline {5.5.2.4}Get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pokemon()}{16}{subsubsection.5.5.2.4}
+\contentsline {subsubsection}{\numberline {5.5.2.5}Patch\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pokemon()}{16}{subsubsection.5.5.2.5}
+\contentsline {subsubsection}{\numberline {5.5.2.6}Post\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pokemon()}{16}{subsubsection.5.5.2.6}
+\contentsline {subsubsection}{\numberline {5.5.2.7}Put\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pokemon()}{17}{subsubsection.5.5.2.7}
+\contentsline {section}{\numberline {5.6}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}A\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}L.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Context Class Reference}{17}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Detailed Description}{18}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Constructor \& Destructor Documentation}{18}{subsection.5.6.2}
+\contentsline {subsubsection}{\numberline {5.6.2.1}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Context()}{18}{subsubsection.5.6.2.1}
+\contentsline {subsection}{\numberline {5.6.3}Property Documentation}{18}{subsection.5.6.3}
+\contentsline {subsubsection}{\numberline {5.6.3.1}Pokemons}{18}{subsubsection.5.6.3.1}
+\contentsline {section}{\numberline {5.7}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Models.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Statistic Class Reference}{18}{section.5.7}
+\contentsline {subsection}{\numberline {5.7.1}Detailed Description}{19}{subsection.5.7.1}
+\contentsline {subsection}{\numberline {5.7.2}Property Documentation}{19}{subsection.5.7.2}
+\contentsline {subsubsection}{\numberline {5.7.2.1}attack}{19}{subsubsection.5.7.2.1}
+\contentsline {subsubsection}{\numberline {5.7.2.2}defense}{19}{subsubsection.5.7.2.2}
+\contentsline {subsubsection}{\numberline {5.7.2.3}hp}{19}{subsubsection.5.7.2.3}
+\contentsline {subsubsection}{\numberline {5.7.2.4}special\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}attack}{19}{subsubsection.5.7.2.4}
+\contentsline {subsubsection}{\numberline {5.7.2.5}special\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}defense}{19}{subsubsection.5.7.2.5}
+\contentsline {subsubsection}{\numberline {5.7.2.6}speed}{19}{subsubsection.5.7.2.6}
+\contentsline {section}{\numberline {5.8}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Models.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Statistic\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Container Class Reference}{20}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}Detailed Description}{20}{subsection.5.8.1}
+\contentsline {subsection}{\numberline {5.8.2}Property Documentation}{20}{subsection.5.8.2}
+\contentsline {subsubsection}{\numberline {5.8.2.1}pokemons}{20}{subsubsection.5.8.2.1}
+\contentsline {subsubsection}{\numberline {5.8.2.2}statistic}{20}{subsubsection.5.8.2.2}
+\contentsline {section}{\numberline {5.9}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Swagger\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Config Class Reference}{20}{section.5.9}
+\contentsline {section}{\numberline {5.10}Poke\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Web\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Api\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Application Class Reference}{21}{section.5.10}
+\contentsline {chapter}{Index}{23}{section*.23}
