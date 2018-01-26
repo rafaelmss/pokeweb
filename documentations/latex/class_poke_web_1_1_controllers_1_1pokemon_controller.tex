@@ -1,0 +1,166 @@
+\hypertarget{class_poke_web_1_1_controllers_1_1pokemon_controller}{}\section{Poke\+Web.\+Controllers.\+pokemon\+Controller Class Reference}
+\label{class_poke_web_1_1_controllers_1_1pokemon_controller}\index{Poke\+Web.\+Controllers.\+pokemon\+Controller@{Poke\+Web.\+Controllers.\+pokemon\+Controller}}
+Inheritance diagram for Poke\+Web.\+Controllers.\+pokemon\+Controller\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_poke_web_1_1_controllers_1_1pokemon_controller}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+I\+Http\+Action\+Result \mbox{\hyperlink{class_poke_web_1_1_controllers_1_1pokemon_controller_a5d8946d4d1cbf4cb9b044ef2e7cb7492}{Get\+All\+Pokemons}} (int page\+\_\+size, int page)
+\item 
+I\+Http\+Action\+Result \mbox{\hyperlink{class_poke_web_1_1_controllers_1_1pokemon_controller_a631a03b01ec3e0b99e9751c2f9def3bb}{Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc}} ()
+\item 
+I\+Http\+Action\+Result \mbox{\hyperlink{class_poke_web_1_1_controllers_1_1pokemon_controller_a31ee4aa642842e5fb9a2c1ceaf42f0b6}{Get\+Pokemon}} (int id)
+\item 
+I\+Http\+Action\+Result \mbox{\hyperlink{class_poke_web_1_1_controllers_1_1pokemon_controller_a426f7fbc4f620f8f7b6f144f10233540}{Post\+Pokemon}} (\mbox{\hyperlink{class_poke_web_1_1_models_1_1_pokemon}{Pokemon}} pokemon)
+\item 
+I\+Http\+Action\+Result \mbox{\hyperlink{class_poke_web_1_1_controllers_1_1pokemon_controller_a155329861c4235adf1e8ebf27c3fa19e}{Put\+Pokemon}} (\mbox{\hyperlink{class_poke_web_1_1_models_1_1_pokemon}{Pokemon}} pokemon)
+\item 
+I\+Http\+Action\+Result \mbox{\hyperlink{class_poke_web_1_1_controllers_1_1pokemon_controller_a563cc501f839af2bf76b57b8a8c26dd0}{Patch\+Pokemon}} (\mbox{\hyperlink{class_poke_web_1_1_models_1_1_pokemon}{Pokemon}} pokemon)
+\item 
+I\+Http\+Action\+Result \mbox{\hyperlink{class_poke_web_1_1_controllers_1_1pokemon_controller_a8ba6862493be8003dc42bebe58578da4}{Delete\+Pokemon}} (int id)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Primary controller of the A\+PI application. This controller is responsible for receiving all requests in the application and handling each of the calls according to the route and parameters received. 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_poke_web_1_1_controllers_1_1pokemon_controller_a8ba6862493be8003dc42bebe58578da4}\label{class_poke_web_1_1_controllers_1_1pokemon_controller_a8ba6862493be8003dc42bebe58578da4}} 
+\index{Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}!Delete\+Pokemon@{Delete\+Pokemon}}
+\index{Delete\+Pokemon@{Delete\+Pokemon}!Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}}
+\subsubsection{\texorpdfstring{Delete\+Pokemon()}{DeletePokemon()}}
+{\footnotesize\ttfamily I\+Http\+Action\+Result Poke\+Web.\+Controllers.\+pokemon\+Controller.\+Delete\+Pokemon (\begin{DoxyParamCaption}\item[{int}]{id }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Routine to delete a Pokemon. This routine is responsible for remove data about the Pokemon into the application with identification
+
+
+\begin{DoxyParams}{Parameters}
+{\em Pokemon} & Identification of Pokemon in database \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Data of Pokemon removed 
+\end{DoxyReturn}
+\begin{DoxyAuthor}{Author}
+Rafael M. S. Siqueira 
+\end{DoxyAuthor}
+\mbox{\Hypertarget{class_poke_web_1_1_controllers_1_1pokemon_controller_a5d8946d4d1cbf4cb9b044ef2e7cb7492}\label{class_poke_web_1_1_controllers_1_1pokemon_controller_a5d8946d4d1cbf4cb9b044ef2e7cb7492}} 
+\index{Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}!Get\+All\+Pokemons@{Get\+All\+Pokemons}}
+\index{Get\+All\+Pokemons@{Get\+All\+Pokemons}!Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}}
+\subsubsection{\texorpdfstring{Get\+All\+Pokemons()}{GetAllPokemons()}}
+{\footnotesize\ttfamily I\+Http\+Action\+Result Poke\+Web.\+Controllers.\+pokemon\+Controller.\+Get\+All\+Pokemons (\begin{DoxyParamCaption}\item[{int}]{page\+\_\+size,  }\item[{int}]{page }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Routine for Pokemon listings. This routine operates by paging system, facilitating the client-\/side iplementation. To be executed, this routine waits for two parameters, the page size (number of elements returned) and the page number.
+
+
+\begin{DoxyParams}{Parameters}
+{\em page\+\_\+size} & Number of elements \\
+\hline
+{\em page} & Number of page \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+List of Pokemons 
+\end{DoxyReturn}
+\begin{DoxyAuthor}{Author}
+Rafael M. S. Siqueira 
+\end{DoxyAuthor}
+\mbox{\Hypertarget{class_poke_web_1_1_controllers_1_1pokemon_controller_a631a03b01ec3e0b99e9751c2f9def3bb}\label{class_poke_web_1_1_controllers_1_1pokemon_controller_a631a03b01ec3e0b99e9751c2f9def3bb}} 
+\index{Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}!Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc@{Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc}}
+\index{Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc@{Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc}!Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}}
+\subsubsection{\texorpdfstring{Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc()}{GetFirst6PokemonsOrderByAtackDesc()}}
+{\footnotesize\ttfamily I\+Http\+Action\+Result Poke\+Web.\+Controllers.\+pokemon\+Controller.\+Get\+First6\+Pokemons\+Order\+By\+Atack\+Desc (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Routine for the list of 6 best Pokemons ordered by attack points. This routine lists the 6 best pokémons ordered by the attack parameter and calculates the statistical data for this group to help the client about this information.
+
+\begin{DoxyReturn}{Returns}
+Container with the list of 6 top Pokemons ans statistic data 
+\end{DoxyReturn}
+\begin{DoxyAuthor}{Author}
+Rafael M. S. Siqueira 
+\end{DoxyAuthor}
+\mbox{\Hypertarget{class_poke_web_1_1_controllers_1_1pokemon_controller_a31ee4aa642842e5fb9a2c1ceaf42f0b6}\label{class_poke_web_1_1_controllers_1_1pokemon_controller_a31ee4aa642842e5fb9a2c1ceaf42f0b6}} 
+\index{Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}!Get\+Pokemon@{Get\+Pokemon}}
+\index{Get\+Pokemon@{Get\+Pokemon}!Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}}
+\subsubsection{\texorpdfstring{Get\+Pokemon()}{GetPokemon()}}
+{\footnotesize\ttfamily I\+Http\+Action\+Result Poke\+Web.\+Controllers.\+pokemon\+Controller.\+Get\+Pokemon (\begin{DoxyParamCaption}\item[{int}]{id }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Routine for Pokemon details. This Pokemon gets the identification number of a Pokemon and returns all the data in the application related to that Pokemon
+
+
+\begin{DoxyParams}{Parameters}
+{\em id} & Identification of Pokemon in database \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Data of Pokemon 
+\end{DoxyReturn}
+\begin{DoxyAuthor}{Author}
+Rafael M. S. Siqueira 
+\end{DoxyAuthor}
+\mbox{\Hypertarget{class_poke_web_1_1_controllers_1_1pokemon_controller_a563cc501f839af2bf76b57b8a8c26dd0}\label{class_poke_web_1_1_controllers_1_1pokemon_controller_a563cc501f839af2bf76b57b8a8c26dd0}} 
+\index{Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}!Patch\+Pokemon@{Patch\+Pokemon}}
+\index{Patch\+Pokemon@{Patch\+Pokemon}!Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}}
+\subsubsection{\texorpdfstring{Patch\+Pokemon()}{PatchPokemon()}}
+{\footnotesize\ttfamily I\+Http\+Action\+Result Poke\+Web.\+Controllers.\+pokemon\+Controller.\+Patch\+Pokemon (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_poke_web_1_1_models_1_1_pokemon}{Pokemon}}}]{pokemon }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Routine to send a Pokemon. This routine is responsible for update a part of infromation about the Pokemon into the application in database
+
+
+\begin{DoxyParams}{Parameters}
+{\em Pokemon} & Part of infoirmation about the Pokemon \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Data of Pokemon with identification 
+\end{DoxyReturn}
+\begin{DoxyAuthor}{Author}
+Rafael M. S. Siqueira 
+\end{DoxyAuthor}
+\mbox{\Hypertarget{class_poke_web_1_1_controllers_1_1pokemon_controller_a426f7fbc4f620f8f7b6f144f10233540}\label{class_poke_web_1_1_controllers_1_1pokemon_controller_a426f7fbc4f620f8f7b6f144f10233540}} 
+\index{Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}!Post\+Pokemon@{Post\+Pokemon}}
+\index{Post\+Pokemon@{Post\+Pokemon}!Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}}
+\subsubsection{\texorpdfstring{Post\+Pokemon()}{PostPokemon()}}
+{\footnotesize\ttfamily I\+Http\+Action\+Result Poke\+Web.\+Controllers.\+pokemon\+Controller.\+Post\+Pokemon (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_poke_web_1_1_models_1_1_pokemon}{Pokemon}}}]{pokemon }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Routine to send a Pokemon. This routine is responsible for inserting a Pokemon into the application or updating all the data if it is already registered in the database of the application
+
+
+\begin{DoxyParams}{Parameters}
+{\em Pokemon} & All infoirmation about the Pokemon \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Data of Pokemon with identification 
+\end{DoxyReturn}
+\begin{DoxyAuthor}{Author}
+Rafael M. S. Siqueira 
+\end{DoxyAuthor}
+\mbox{\Hypertarget{class_poke_web_1_1_controllers_1_1pokemon_controller_a155329861c4235adf1e8ebf27c3fa19e}\label{class_poke_web_1_1_controllers_1_1pokemon_controller_a155329861c4235adf1e8ebf27c3fa19e}} 
+\index{Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}!Put\+Pokemon@{Put\+Pokemon}}
+\index{Put\+Pokemon@{Put\+Pokemon}!Poke\+Web\+::\+Controllers\+::pokemon\+Controller@{Poke\+Web\+::\+Controllers\+::pokemon\+Controller}}
+\subsubsection{\texorpdfstring{Put\+Pokemon()}{PutPokemon()}}
+{\footnotesize\ttfamily I\+Http\+Action\+Result Poke\+Web.\+Controllers.\+pokemon\+Controller.\+Put\+Pokemon (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_poke_web_1_1_models_1_1_pokemon}{Pokemon}}}]{pokemon }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Routine to send a Pokemon. This routine is responsible for inserting a Pokemon into the application all the data if it is already registered in the database of the application
+
+
+\begin{DoxyParams}{Parameters}
+{\em Pokemon} & All infoirmation about the Pokemon \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Data of Pokemon with identification 
+\end{DoxyReturn}
+\begin{DoxyAuthor}{Author}
+Rafael M. S. Siqueira 
+\end{DoxyAuthor}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Controllers/pokemon\+Controller.\+cs\end{DoxyCompactItemize}
