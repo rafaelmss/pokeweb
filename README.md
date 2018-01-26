@@ -24,5 +24,8 @@ Features implemented for the Web API application needed to build the application
 + System.Web.Html 5 
 
 
+## Test API
+
+To access the Swagger interface and list / test the application, it is necessary to build the solution in the IDE Visual Studio 2015 and access the browser in the address:
 
 <a href="http://localhost:8000/swagger">https://localhost:8000/swagger</a>
